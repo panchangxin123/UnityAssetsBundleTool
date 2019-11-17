@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ABList ABName="abc" Path="Assets/Prefabs/abc.prefab" AssetName="abc.prefab" Crc="2947290784" ABDependce="texture" />
+  <ABList ABName="assetbundleconfig" Path="Assets/AssetBundleConfig/AssetBundleConfigByte.bytes" AssetName="AssetBundleConfigByte.bytes" Crc="816826549" ABDependce="" />
+  <ABList ABName="canvas" Path="Assets/Prefabs/Canvas.prefab" AssetName="Canvas.prefab" Crc="3322402287" ABDependce="texture" />
+  <ABList ABName="directional light" Path="Assets/Prefabs/Directional Light.prefab" AssetName="Directional Light.prefab" Crc="3003693003" ABDependce="" />
+  <ABList ABName="texture" Path="Assets/Texture/WX20191109-135025@2x.png" AssetName="WX20191109-135025@2x.png" Crc="831122459" ABDependce="" />
+</AssetBundleConfig>

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 170758491
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: texture
+      Dependencies: {}
+    Info_1:
+      Name: assetbundleconfig
+      Dependencies: {}
+    Info_2:
+      Name: abc
+      Dependencies:
+        Dependency_0: texture
+    Info_3:
+      Name: canvas
+      Dependencies:
+        Dependency_0: texture
+    Info_4:
+      Name: directional light
+      Dependencies: {}

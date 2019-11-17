@@ -1,0 +1,7 @@
+AssetBundle/.idea
+AssetBundle/obj
+AssetBundle/Library
+AssetBundle/Logs
+AssetBundle/Assembly-CSharp-Editor.csproj
+AssetBundle/Assembly-CSharp.csproj
+AssetBundle/AssetBundle.sln
